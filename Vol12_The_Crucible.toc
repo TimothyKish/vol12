@@ -1,0 +1,144 @@
+\contentsline {chapter}{Preface: The Instrument Turned On Itself}{6}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Background: Where Error Lives}{10}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Two Ways to Be Wrong}{10}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}A Worked Example From the Other Side}{10}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Our Exposure, Stated Plainly}{11}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Adopting the Look-Elsewhere Correction}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}The Eleven-Volume Arc, and Where It Now Stands}{12}{section.1.3}%
+\contentsline {chapter}{\numberline {2}The Regression That Started It}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}A Routine Gate}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}One Number in Two Places}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}The Silent Substitution}{14}{section.2.3}%
+\contentsline {section}{\numberline {2.4}The Question the Re-Run Was Built to Answer}{14}{section.2.4}%
+\contentsline {chapter}{\numberline {3}The Engine, Rebuilt}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}What Changed, and What Did Not}{15}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Change 1: Field Resolution Through Nested Payloads}{15}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Change 2: The Fallback Made Loud}{15}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Change 3: Common-Support Restriction}{16}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Change 4: The Offset-Sweep Baseline}{16}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Change 5: Numerical Correctness}{16}{subsection.3.1.5}%
+\contentsline {section}{\numberline {3.2}The Run-to-Run Uncertainty of $z$}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}The Threshold}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Two-Sided Validation Before Adoption}{17}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Five Forms of Error}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}What a Form Is}{19}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The Grid, and Why It Has a Floor}{19}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Form C --- Preprocessing-Induced Concentration}{20}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Form D --- Null-Support Mismatch}{21}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}The Measurement}{21}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}The Demonstration}{22}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}The Sign Bound}{22}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}The Residual}{22}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}Form E --- Quantised Support}{23}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}The Tidal Domains}{23}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}The Decisive Calculation}{23}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}The Arithmetic of the Modulus Itself}{23}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}The Screens Now Standing}{24}{section.4.6}%
+\contentsline {chapter}{\numberline {5}The Crucible: Lake by Lake}{25}{chapter.5}%
+\contentsline {section}{\numberline {5.1}What the Fire Showed}{25}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}\texttt {s2\_stellar\_kinematics} --- 27.5\% Non-Measurements}{25}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}The Tidal Lakes --- Rounded to Integer Hours}{25}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}\texttt {orbital\_ttv} --- Whole Minutes}{26}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}\texttt {stellar\_spindown} --- Eleven Orders of Magnitude Annihilated}{26}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}\texttt {n4\_cosmological} --- A Null That Reproduces Its Own Domain}{26}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}\texttt {t4\_cosmological} --- Under-Resolved}{26}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}\texttt {chemistry} --- Not a Broken Lake}{27}{subsection.5.1.7}%
+\contentsline {section}{\numberline {5.2}The Wrongbox Tier}{27}{section.5.2}%
+\contentsline {section}{\numberline {5.3}The New Lake Boundaries}{27}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}A Worked Example of Requirement 3}{28}{subsection.5.3.1}%
+\contentsline {chapter}{\numberline {6}The Controlled Same-Object Experiment}{29}{chapter.6}%
+\contentsline {section}{\numberline {6.1}A Liability Turned Into a Prediction}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}The Kepler Case}{29}{section.6.2}%
+\contentsline {section}{\numberline {6.3}The Controlled-Pair Programme}{30}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Errata}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}On the Purpose of This Chapter}{31}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Erratum 1 (Volume 11) --- Re-Confirmed and Extended}{31}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Erratum 2 (Volume 11) --- Carried Forward}{32}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Erratum 3 --- The Lock Floor and the Orbital Demonstration}{32}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Erratum 4 --- The Principal Erratum of This Volume}{33}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}4a. \texttt {stellar\_kinematic} Withdrawn}{33}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}4b. Form D and the Standing of Every Negative Verdict}{33}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}4c. The Wrongbox Tier}{33}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}4d. Form E and the Suspended Domains}{33}{subsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.5.5}4e. Volume 11's Internal Contradiction}{34}{subsection.7.5.5}%
+\contentsline {subsection}{\numberline {7.5.6}4f. Unit-Contingency of the Bridge Programme}{34}{subsection.7.5.6}%
+\contentsline {section}{\numberline {7.6}Erratum 5 --- The Cosmology Null}{35}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Corrections Against the Referee}{35}{section.7.7}%
+\contentsline {chapter}{\numberline {8}What the Nine Tell Us, and What They Do Not}{36}{chapter.8}%
+\contentsline {section}{\numberline {8.1}The Reduction}{36}{section.8.1}%
+\contentsline {section}{\numberline {8.2}The Nine}{36}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Reproducibility}{37}{subsection.8.2.1}%
+\contentsline {section}{\numberline {8.3}The Family Collapse}{37}{section.8.3}%
+\contentsline {section}{\numberline {8.4}\texttt {quantum\_transitional}, at Full Strength}{38}{section.8.4}%
+\contentsline {section}{\numberline {8.5}The Direction-of-Effect Audit}{38}{section.8.5}%
+\contentsline {chapter}{\numberline {9}Pre-Registrations and the Road to Two Dimensions}{39}{chapter.9}%
+\contentsline {section}{\numberline {9.1}On Filing Before Running}{39}{section.9.1}%
+\contentsline {section}{\numberline {9.2}P\_unit\_permutation}{39}{section.9.2}%
+\contentsline {section}{\numberline {9.3}The $x_0$ Policy}{40}{section.9.3}%
+\contentsline {section}{\numberline {9.4}The Controlled-Pair Predictions}{40}{section.9.4}%
+\contentsline {section}{\numberline {9.5}The Road to Two Dimensions}{41}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Why the Scramble Becomes Real}{41}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}Standing Requirements for the 2D Engine}{41}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}Closing}{42}{section.9.6}%
+\contentsline {chapter}{\numberline {10}The Reduction: What the Framework Actually Asks}{43}{chapter.10}%
+\contentsline {section}{\numberline {10.1}A Question Asked Sideways}{43}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Four of Five Reduce to One Root}{43}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Old World, New World}{44}{section.10.3}%
+\contentsline {section}{\numberline {10.4}A Note on How This Was Found}{45}{section.10.4}%
+\contentsline {chapter}{\numberline {11}The Period Engine: What It Removes by Proof}{46}{chapter.11}%
+\contentsline {section}{\numberline {11.1}The Statistic}{46}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Unit Invariance, Proved}{46}{section.11.2}%
+\contentsline {section}{\numberline {11.3}What Disappears}{47}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Zeros, and Why Their Handling Is Forced}{48}{section.11.4}%
+\contentsline {section}{\numberline {11.5}The Data Product Stops Carrying the Hypothesis}{48}{section.11.5}%
+\contentsline {chapter}{\numberline {12}What the Period Engine Cannot Do}{49}{chapter.12}%
+\contentsline {section}{\numberline {12.1}A Chapter Written Against Ourselves}{49}{section.12.1}%
+\contentsline {section}{\numberline {12.2}The Null Was Not Removed. It Was Replaced.}{49}{section.12.2}%
+\contentsline {section}{\numberline {12.3}The Annular Background}{50}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Provenance and sensitivity of the two constants}{51}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}How many independent samples the annulus really has}{51}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}An open problem, recorded unsolved}{51}{subsection.12.3.3}%
+\contentsline {section}{\numberline {12.4}The Resolution Criterion}{52}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Applied to the nine surviving domains}{53}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}It converges with an earlier verdict from an unrelated direction}{53}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}Consequences adopted}{53}{subsection.12.4.3}%
+\contentsline {subsection}{\numberline {12.4.4}And it reaches the bridges}{54}{subsection.12.4.4}%
+\contentsline {chapter}{\numberline {13}The Degeneracy, and What the Data Can Determine}{55}{chapter.13}%
+\contentsline {section}{\numberline {13.1}A Question That Answered Itself}{55}{section.13.1}%
+\contentsline {section}{\numberline {13.2}The Degeneracy}{55}{section.13.2}%
+\contentsline {section}{\numberline {13.3}The Well-Posed Version: the Comb Test}{56}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Two Bullets That Cannot Have Come From Any Run}{57}{section.13.4}%
+\contentsline {section}{\numberline {13.5}A Pre-Registered Falsification Condition Appears to Be Met}{57}{section.13.5}%
+\contentsline {section}{\numberline {13.6}\texttt {galactic\_sersic}: the Same Arithmetic by a Second Route}{58}{section.13.6}%
+\contentsline {section}{\numberline {13.7}The Rydberg Result}{59}{section.13.7}%
+\contentsline {chapter}{\numberline {14}Aperture and Exposure: Rebuilding the Lakes}{61}{chapter.14}%
+\contentsline {section}{\numberline {14.1}The Telescope Analogy, and Where It Inverts}{61}{section.14.1}%
+\contentsline {section}{\numberline {14.2}The Domains \texttt {log1p} Was Hiding}{63}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Where the Recovery Comes From, and Why That Is a Risk}{63}{section.14.3}%
+\contentsline {section}{\numberline {14.4}The New Lake Boundaries}{64}{section.14.4}%
+\contentsline {subsection}{\numberline {14.4.1}A worked example of requirement 3}{64}{subsection.14.4.1}%
+\contentsline {chapter}{\numberline {15}Pre-Registrations for the Period Engine}{66}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Filed Before a Line of Code Exists}{66}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Trial 2b --- The Sector Bound Test}{66}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Trial 1 --- \texttt {quantum\_transitional} --- the Build Gate}{67}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Trial 1b --- \texttt {orbital\_wrongbox} --- Clean Expected-Fail}{68}{section.15.4}%
+\contentsline {section}{\numberline {15.5}Trial 4 --- \texttt {stellar\_spindown} --- the Recovered Domain}{68}{section.15.5}%
+\contentsline {section}{\numberline {15.6}Trial 3 --- Struck}{68}{section.15.6}%
+\contentsline {section}{\numberline {15.7}The Comb Test}{69}{section.15.7}%
+\contentsline {section}{\numberline {15.8}The Comparison Matrix}{69}{section.15.8}%
+\contentsline {section}{\numberline {15.9}Conditions of Adoption}{70}{section.15.9}%
+\contentsline {section}{\numberline {15.10}What Is Not Claimed}{70}{section.15.10}%
+\contentsline {chapter}{\numberline {16}Standing, and the Road to Two Dimensions}{71}{chapter.16}%
+\contentsline {section}{\numberline {16.1}The Complete Taxonomy}{71}{section.16.1}%
+\contentsline {section}{\numberline {16.2}What This Volume Costs and What It Buys}{73}{section.16.2}%
+\contentsline {section}{\numberline {16.3}The One That Survived Everything}{73}{section.16.3}%
+\contentsline {section}{\numberline {16.4}The Direction-of-Effect Audit}{74}{section.16.4}%
+\contentsline {section}{\numberline {16.5}The Road to Two Dimensions}{74}{section.16.5}%
+\contentsline {subsection}{\numberline {16.5.1}Why the scramble null becomes real}{74}{subsection.16.5.1}%
+\contentsline {section}{\numberline {16.6}Closing: Optimistically Nervous}{75}{section.16.6}%
+\contentsline {chapter}{\numberline {A}Run Provenance}{77}{chapter.A}%
+\contentsline {section}{\numberline {A.1}Engine Fingerprints}{77}{section.A.1}%
+\contentsline {section}{\numberline {A.2}The Audit Trail}{77}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Audit Scripts}{77}{section.A.3}%
+\contentsline {chapter}{References}{78}{appendix*.3}%
+\contentsline {section}{Scientific References}{81}{appendix*.4}%

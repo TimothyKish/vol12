@@ -1,0 +1,9 @@
+KishLattice Pipeline Run Receipt
+============================================================
+
+engine_version:  e92670a11f05b4c1f0d0e9c5d00ff5ebc78cb29cd07bf67abd2b4a5260366c03d5d1612f9caf57d6b0c21459cc7e1a58f103a7c433fe81b168f54dbcdeff6e490eb924e9f91b6c93d0d0e98a9eca38c84777083d4d577d585c0c88411ee18be4
+total_runtime:   31m 11s
+completed_utc:   2026-08-26 02:49:33 UTC
+
+Stages:
+  [OK] pinch        31m 11s

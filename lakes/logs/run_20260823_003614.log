@@ -1,0 +1,190 @@
+KishLattice Pipeline Run Log
+============================================================
+run_timestamp:   20260823_003614
+vol_root:        C:\Users\timot\Downloads\Science\src\Unification\vol12
+engine_version:  cff0e07a06228827dc12b6ca48d74544c78cb29cd07bf67abd2b4a5260366c03d5d1612f9caf57d6b0c21459cc7e1a582bf8bbb130a32607dec51771d0db3734e5ba60027fd15237c45b4d12620494543dc4ea657bbd9d5aa2d1d934164978f7
+stages:          scalarize, unify, chaos, pinch
+started_utc:     2026-08-23 00:36:24 UTC
+============================================================
+
+
+============================================================
+[2026-08-23 00:36:24 UTC] STAGE: SCALARIZE
+Transform promoted lakes into scalar space
+============================================================
+[scalarize.json] Loaded config for 65 domains.
+
+============================================================
+  [MONITORING TIP] Open a new terminal and run:
+  python engine/sidecar.py
+  to view the live byte-streaming progress dashboard.
+============================================================
+
+Scalarizing L_emission_nist: L_emission_nist_promoted.jsonl -> L_emission_nist_scalarized.jsonl (mode=geometry)
+Scalarizing L_igrf: L_igrf_promoted.jsonl -> L_igrf_scalarized.jsonl (mode=geometry)
+Scalarizing L_beta_decay: L_beta_decay_promoted.jsonl -> L_beta_decay_scalarized.jsonl (mode=geometry)
+Scalarizing q4_nuclear: q4_nuclear_promoted.jsonl -> q4_nuclear_scalarized.jsonl (mode=geometry)
+Scalarizing q5_decay: q5_decay_promoted.jsonl -> q5_decay_scalarized.jsonl (mode=geometry)
+Scalarizing q8_ionisation: q8_ionisation_promoted.jsonl -> q8_ionisation_scalarized.jsonl (mode=geometry)
+Scalarizing b1_chirality: b1_chirality_promoted.jsonl -> b1_chirality_scalarized.jsonl (mode=geometry)
+Scalarizing b3_amino: b3_amino_promoted.jsonl -> b3_amino_scalarized.jsonl (mode=geometry)
+Scalarizing t1_biological: t1_biological_promoted.jsonl -> t1_biological_scalarized.jsonl (mode=geometry)
+Scalarizing t2b_atlantic: t2b_atlantic_promoted.jsonl -> t2b_atlantic_scalarized.jsonl (mode=geometry)
+Scalarizing t2c_gulf: t2c_gulf_promoted.jsonl -> t2c_gulf_scalarized.jsonl (mode=geometry)
+Scalarizing t2d_pacific: t2d_pacific_promoted.jsonl -> t2d_pacific_scalarized.jsonl (mode=geometry)
+Scalarizing t2g_indian: t2g_indian_promoted.jsonl -> t2g_indian_scalarized.jsonl (mode=geometry)
+Scalarizing u1_usgs_san_andreas: u1_usgs_san_andreas_promoted.jsonl -> u1_usgs_san_andreas_scalarized.jsonl (mode=geometry)
+Scalarizing u2_usgs_cascadia: u2_usgs_cascadia_promoted.jsonl -> u2_usgs_cascadia_scalarized.jsonl (mode=geometry)
+Scalarizing u4_usgs_anatolian: u4_usgs_anatolian_promoted.jsonl -> u4_usgs_anatolian_scalarized.jsonl (mode=geometry)
+Scalarizing u3_usgs_japan_trench: u3_usgs_japan_trench_promoted.jsonl -> u3_usgs_japan_trench_scalarized.jsonl (mode=geometry)
+Scalarizing k3_solar_cycle: k3_solar_cycle_promoted.jsonl -> k3_solar_cycle_scalarized.jsonl (mode=geometry)
+Scalarizing k2a_spindown: k2a_spindown_promoted.jsonl -> k2a_spindown_scalarized.jsonl (mode=geometry)
+Scalarizing k2b_dm: k2b_dm_promoted.jsonl -> k2b_dm_scalarized.jsonl (mode=geometry)
+Scalarizing k2c_age: k2c_age_promoted.jsonl -> k2c_age_scalarized.jsonl (mode=geometry)
+Scalarizing k2d_bfield: k2d_bfield_promoted.jsonl -> k2d_bfield_scalarized.jsonl (mode=geometry)
+Scalarizing h1_cern_lhc: h1_cern_lhc_promoted.jsonl -> h1_cern_lhc_scalarized.jsonl (mode=geometry)
+Scalarizing h1b_pt_lead: h1b_pt_lead_promoted.jsonl -> h1b_pt_lead_scalarized.jsonl (mode=geometry)
+Scalarizing h1c_pt_sublead: h1c_pt_sublead_promoted.jsonl -> h1c_pt_sublead_scalarized.jsonl (mode=geometry)
+Scalarizing h1d_eta: h1d_eta_promoted.jsonl -> h1d_eta_scalarized.jsonl (mode=geometry)
+Scalarizing g1b_sersic: g1b_sersic_promoted.jsonl -> g1b_sersic_scalarized.jsonl (mode=geometry)
+Scalarizing g1c_mass: g1c_mass_promoted.jsonl -> g1c_mass_scalarized.jsonl (mode=geometry)
+Scalarizing g2_wmap: g2_wmap_promoted.jsonl -> g2_wmap_scalarized.jsonl (mode=geometry)
+Scalarizing l1_gwtc: l1_gwtc_promoted.jsonl -> l1_gwtc_scalarized.jsonl (mode=geometry)
+Scalarizing p4_ttv: p4_ttv_promoted.jsonl -> p4_ttv_scalarized.jsonl (mode=geometry)
+Scalarizing p_transit: p_transit_promoted.jsonl -> p_transit_scalarized.jsonl (mode=geometry)
+Scalarizing n1_mechanical: n1_mechanical_promoted.jsonl -> n1_mechanical_scalarized.jsonl (mode=geometry)
+Scalarizing n2_behavioral: n2_behavioral_promoted.jsonl -> n2_behavioral_scalarized.jsonl (mode=geometry)
+Scalarizing n3_mathematical: n3_mathematical_promoted.jsonl -> n3_mathematical_scalarized.jsonl (mode=geometry)
+Scalarizing n4_cosmological: n4_cosmological_promoted.jsonl -> n4_cosmological_scalarized.jsonl (mode=geometry)
+Scalarizing frb_chime: frb_chime_promoted.jsonl -> frb_chime_scalarized.jsonl (mode=geometry)
+Scalarizing g1_galaxy_kinematics: g1_galaxy_kinematics_promoted.jsonl -> g1_galaxy_kinematics_scalarized.jsonl (mode=geometry)
+Scalarizing k2_pulsar_periods: k2_pulsar_periods_promoted.jsonl -> k2_pulsar_periods_scalarized.jsonl (mode=geometry)
+Scalarizing k1_kepler_rotation: k1_kepler_rotation_promoted.jsonl -> k1_kepler_rotation_scalarized.jsonl (mode=geometry)
+Scalarizing p1_orbital_periods: p1_orbital_periods_promoted.jsonl -> p1_orbital_periods_scalarized.jsonl (mode=geometry)
+Scalarizing p2_orbital_radius: p2_orbital_radius_promoted.jsonl -> p2_orbital_radius_scalarized.jsonl (mode=geometry)
+Scalarizing p3_planet_mass: p3_planet_mass_promoted.jsonl -> p3_planet_mass_scalarized.jsonl (mode=geometry)
+Scalarizing q3_molecular_vibration: q3_molecular_vibration_promoted.jsonl -> q3_molecular_vibration_scalarized.jsonl (mode=geometry)
+Scalarizing q9_c60: q9_c60_promoted.jsonl -> q9_c60_scalarized.jsonl (mode=geometry)
+Scalarizing s1_gaia_parallax: s1_gaia_parallax_promoted.jsonl -> s1_gaia_parallax_scalarized.jsonl (mode=geometry)
+Scalarizing s2_stellar_kinematics: s2_stellar_kinematics_promoted.jsonl -> s2_stellar_kinematics_scalarized.jsonl (mode=geometry)
+Scalarizing s4_gaia_colour: s4_gaia_colour_promoted.jsonl -> s4_gaia_colour_scalarized.jsonl (mode=geometry)
+Scalarizing t2_planetary: t2_planetary_promoted.jsonl -> t2_planetary_scalarized.jsonl (mode=geometry)
+Scalarizing t4_cosmological: t4_cosmological_promoted.jsonl -> t4_cosmological_scalarized.jsonl (mode=geometry)
+Scalarizing k2_wrongbox: k2_wrongbox_promoted.jsonl -> k2_wrongbox_scalarized.jsonl (mode=geometry)
+Scalarizing mat_wrongbox: mat_wrongbox_promoted.jsonl -> mat_wrongbox_scalarized.jsonl (mode=geometry)
+
+==============================================================================
+SCALAR DISPATCH ATTRIBUTION
+==============================================================================
+  domain                          route                      records
+  astrophysics                    NAMED_HANDLER                4,636
+  atomic_ionisation               NAMED_HANDLER                  305
+  behavior                        CONFIG_DISPATCH              2,515
+  biology                         LEGACY_PRECOMPUTED             196
+  biology                         ZERO                            10
+  biology_chirality               CONFIG_DISPATCH                 78
+  cmb_anisotropy                  NAMED_HANDLER                   83
+  cosmology                       LEGACY_PRECOMPUTED          10,000
+  electron_beta                   CONFIG_DISPATCH             40,210
+  galactic                        CONFIG_DISPATCH          1,843,110
+  galactic_mass                   CONFIG_DISPATCH          1,843,110
+  galactic_sersic                 CONFIG_DISPATCH            100,000
+  geomagnetic                     CONFIG_DISPATCH                195
+  gravitational_wave              NAMED_HANDLER                   83
+  materials_wrongbox              CONFIG_DISPATCH             33,973
+  mathematics                     CONFIG_DISPATCH              1,000
+  mechanics                       CONFIG_DISPATCH              2,484
+  molecular_c60                   NAMED_HANDLER                   46
+  nuclear_binding                 NAMED_HANDLER                   43
+  nuclear_decay                   NAMED_HANDLER                3,173
+  nuclear_decay                   ZERO                            32
+  orbital                         CONFIG_DISPATCH             13,521
+  orbital                         LEGACY_PRECOMPUTED          11,970
+  orbital_transit                 CONFIG_DISPATCH              4,603
+  orbital_ttv                     NAMED_HANDLER              290,458
+  planetary                       LEGACY_PRECOMPUTED          14,116
+  planetary_atlantic              NAMED_HANDLER                6,973
+  planetary_gulf                  NAMED_HANDLER                6,927
+  planetary_indian                NAMED_HANDLER                4,929
+  planetary_pacific               NAMED_HANDLER                6,838
+  quantum_molecular_vibration     CONFIG_DISPATCH                 77
+  quantum_transitional            CONFIG_DISPATCH            189,330
+  seismic_temporal                NAMED_HANDLER                4,983
+  stellar                         LEGACY_PRECOMPUTED       3,979,697
+  stellar_age                     CONFIG_DISPATCH              2,052
+  stellar_bfield                  CONFIG_DISPATCH              2,052
+  stellar_cycle                   NAMED_HANDLER                   29
+  stellar_dm                      CONFIG_DISPATCH              2,457
+  stellar_kinematic               CONFIG_DISPATCH          1,808,145
+  stellar_rotation                LEGACY_PRECOMPUTED          67,311
+  stellar_spindown                CONFIG_DISPATCH              2,052
+  stellar_wrongbox                CONFIG_DISPATCH              2,527
+  subnuclear_eta                  CONFIG_DISPATCH            100,000
+  subnuclear_mass                 NAMED_HANDLER              100,000
+  subnuclear_pt_lead              CONFIG_DISPATCH            100,000
+  subnuclear_pt_sublead           CONFIG_DISPATCH            100,000
+
+  Resolved field paths:
+    behavior                         -> scalar_klc
+    biology_chirality                -> specific_rotation_deg
+    electron_beta                    -> beta_endpoint_kev
+    galactic                         -> _raw_payload.vdisp
+    galactic_mass                    -> stellar_mass_solar
+    galactic_sersic                  -> sersic_index
+    geomagnetic                      -> amplitude_nT
+    materials_wrongbox               -> volume
+    mathematics                      -> scalar_klc
+    mechanics                        -> scalar_klc
+    orbital                          -> _raw_payload.period_days
+    orbital_transit                  -> transit_duration_hr
+    quantum_molecular_vibration      -> _raw_payload.frequency_cm1
+    quantum_transitional             -> klghs_transition_freq_Hz
+    stellar_age                      -> characteristic_age_yr
+    stellar_bfield                   -> surface_b_field_gauss
+    stellar_dm                       -> dispersion_measure
+    stellar_kinematic                -> meta.val_raw_kms
+    stellar_spindown                 -> spin_down_rate
+    stellar_wrongbox                 -> P0_ms
+    subnuclear_eta                   -> muon1_eta_abs
+    subnuclear_pt_lead               -> muon1_pt_gev
+    subnuclear_pt_sublead            -> muon2_pt_gev
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  LEGACY FALLBACK FIRED.
+  These domains did NOT compute from their configured field. Their
+  scalars are precomputed values carried in the lake, of unverified
+  provenance. Results for these domains are not citable.
+    biology
+    cosmology
+    orbital
+        FIELD_NOT_FOUND: _raw_payload.period_days
+    planetary
+    stellar
+    stellar_rotation
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+==============================================================================
+
+ABORTING: legacy fallback fired under KLGHS_STRICT=1.
+Fix the field mapping in configs/scalarize.json, or set
+KLGHS_STRICT=0 to run anyway (results are NOT citable).
+
+[2026-08-23 00:39:01 UTC] STAGE FAILED: scalarize (exit code 2) after 2m 37s
+
+============================================================
+[2026-08-23 00:39:01 UTC] PIPELINE HALTED -- scalarize failed.
+  Error: Exit code 2
+  Fix the issue and re-run from: python run_pipeline.py --from scalarize
+============================================================
+
+============================================================
+[2026-08-23 00:39:01 UTC] PIPELINE FAILED
+  Total runtime: 2m 37s
+  Log file:      lakes\logs\run_20260823_003614.log
+
+  Stage summary:
+    [FAIL] scalarize    2m 37s
+
+  Engine fingerprint: cff0e07a06228827dc12b6ca48d74544c78cb29cd07bf67abd2b4a5260366c03
+                      d5d1612f9caf57d6b0c21459cc7e1a582bf8bbb130a32607dec51771d0db3734
+                      e5ba60027fd15237c45b4d12620494543dc4ea657bbd9d5aa2d1d934164978f7
+============================================================
